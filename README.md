@@ -6,6 +6,9 @@ Setup for a personal pc has two parts - download software that supports running 
 
 There are a few options for supporting virtual machines. For this we will use Virtual box.
 
+https://www.virtualbox.org/
+Click on the blue button
+
 https://www.virtualbox.org/wiki/Downloads
 
 Under 'VirtualBox 5.2.6 platform packages' select your operating system and down load!
@@ -18,13 +21,19 @@ If you choose to create your own, select 8 gigs of ram if you can. and select 64
 
 For the hadoop part, we will use Hortonwork's distribution. (Again there are other reasonable choices)
 
+Goto https://hortonworks.com/
+and find the dark green box marked 'Get started today with Hortonworks Sandbox' and select the bright green box 'Download HPD Sandbox' 
+
 Download from https://hortonworks.com/products/sandbox/
-Select 'Download for Virtualbox'
+Select 'Download for Virtualbox' (this should be the top option)
 
 This will bring up a screen asking for contact info. 
 
 This will download an .ova file.
+Instructions for importing the virtual machine into VirtualBox
 
+https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/1/#import-the-hortonworks-sandbox
 
+Follow their directions to import the ova file
 
 
