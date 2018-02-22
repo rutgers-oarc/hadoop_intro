@@ -36,4 +36,14 @@ https://hortonworks.com/tutorial/sandbox-deployment-and-install-guide/section/1/
 
 Follow their directions to import the ova file
 
+Once the virtual machine has booted, note the ip address displayed and open that in a browser.
+For me, it was http://127.0.0.1:8888/
+maria_dev/maria_dev
+This opens the Ambari console and a pop-up of tutorials. 
+Those tutorials can be found at: https://hortonworks.com/tutorial/learning-the-ropes-of-the-hortonworks-sandbox/
+
+Terminal access via the browser, is similar:
+https://127.0.0.1:4200/
+root/hadoop
+
 
