@@ -13,6 +13,8 @@ Under 'VirtualBox 5.2.6 platform packages' select your operating system and down
 The manual can be found here: https://www.virtualbox.org/manual/UserManual.html
 and the instructions for installation can be found here: https://www.virtualbox.org/manual/ch02.html
 
+We will cover setting up a virtual machine in the workshop.
+If you choose to create your own, select 8 gigs of ram if you can. and select 64-bit OS when importing (don't just click on the .ova file). Also note that some anti-virus software may not like virtual box or similar software.
 
 For the hadoop part, we will use Hortonwork's distribution. (Again there are other reasonable choices)
 
